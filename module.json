@@ -1,0 +1,10 @@
+{
+    "data": {
+      "type": "registry-modules",
+      "attributes": {
+        "name": "demo-module-bucket",
+        "provider": "google",
+        "registry-name": "private"
+      }
+    }
+}
